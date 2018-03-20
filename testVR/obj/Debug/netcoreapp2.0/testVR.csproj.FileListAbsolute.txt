@@ -1,0 +1,11 @@
+/Users/matt/Projects/testVR/testVR/bin/Debug/netcoreapp2.0/testVR.deps.json
+/Users/matt/Projects/testVR/testVR/bin/Debug/netcoreapp2.0/testVR.runtimeconfig.json
+/Users/matt/Projects/testVR/testVR/bin/Debug/netcoreapp2.0/testVR.runtimeconfig.dev.json
+/Users/matt/Projects/testVR/testVR/bin/Debug/netcoreapp2.0/testVR.dll
+/Users/matt/Projects/testVR/testVR/bin/Debug/netcoreapp2.0/testVR.pdb
+/Users/matt/Projects/testVR/testVR/obj/Debug/netcoreapp2.0/testVR.csprojResolveAssemblyReference.cache
+/Users/matt/Projects/testVR/testVR/obj/Debug/netcoreapp2.0/testVR.csproj.CoreCompileInputs.cache
+/Users/matt/Projects/testVR/testVR/obj/Debug/netcoreapp2.0/testVR.AssemblyInfoInputs.cache
+/Users/matt/Projects/testVR/testVR/obj/Debug/netcoreapp2.0/testVR.AssemblyInfo.cs
+/Users/matt/Projects/testVR/testVR/obj/Debug/netcoreapp2.0/testVR.dll
+/Users/matt/Projects/testVR/testVR/obj/Debug/netcoreapp2.0/testVR.pdb

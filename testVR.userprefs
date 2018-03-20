@@ -1,0 +1,15 @@
+﻿<Properties StartupConfiguration="{C658FEC2-CEAD-4116-8B32-B8FA710D3635}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="testVR/Program.cs">
+    <Files>
+      <File FileName="testVR/Program.cs" Line="2" Column="30" />
+      <File FileName="testVR/FodyWeavers.xml" Line="4" Column="11" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.testVR PreferredExecutionTarget="MonoDevelop.Default" />
+</Properties>
